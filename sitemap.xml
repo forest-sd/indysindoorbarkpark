@@ -21,4 +21,10 @@
   <url><loc>https://indysindoorbarkpark.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://indysindoorbarkpark.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://indysindoorbarkpark.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://indysindoorbarkpark.com/posts/indoor-dog-park-etiquette-guide/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
